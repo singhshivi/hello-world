@@ -1,2 +1,2 @@
-# hello-world
-just another repository
+My projects made in HTML, CSS 
+mini projects
